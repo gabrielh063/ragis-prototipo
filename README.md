@@ -9,7 +9,7 @@ Protótipo estático de demonstração para o hackathon GovTech Inova Paraíso.
 
 https://gabriel-nitro-anv15-51.tailac6509.ts.net:8443/
 
-x5t5-f8vq-4jqs
+42ka-ecg8-zv79
 
 1. Crie um repositório público chamado `ragis-prototipo` na conta `gabrielh063`.
 2. Envie `index.html`, `.nojekyll` e `README.md` para a branch `main` na raiz do repositório.
