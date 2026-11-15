@@ -6,6 +6,9 @@ Protótipo estático de demonstração para o hackathon GovTech Inova Paraíso.
 
 ## Publicação no GitHub Pages
 
+
+https://gabriel-nitro-anv15-51.tailac6509.ts.net:8443/
+
 1. Crie um repositório público chamado `ragis-prototipo` na conta `gabrielh063`.
 2. Envie `index.html`, `.nojekyll` e `README.md` para a branch `main` na raiz do repositório.
 3. Em **Settings → Pages → Build and deployment**, escolha **Deploy from a branch**, `main`, `/(root)` e clique em **Save**.
